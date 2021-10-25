@@ -10,6 +10,6 @@
 	}
 </style>
 
-<table>
-	
-</table>
+<form action="" method="post">
+
+</form>
